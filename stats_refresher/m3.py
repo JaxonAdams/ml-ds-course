@@ -1,4 +1,4 @@
-"""Playing around with Mean, Median, and Mode with NumPy"""
+"""Playing around with Mean, Median, and Mode with NumPy."""
 
 import numpy as np
 from scipy import stats
